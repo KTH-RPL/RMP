@@ -21,7 +21,7 @@ We demonstrate its adaptability by incorporating it into several state-of-the-ar
 
 
 <figure style="text-align:left;">
-  <img src="assets/mask_strategy.png" width="100%">
+  <img src="assets/mask_strategy.png" width="70%">
   <figcaption>Fig.3 - Different mask sampling strategies in pretrain: (a) random pointwise masking, (b) random patchwise masking for random agents, (c) random masking in time. All show 75% masking in total (in blue)  and the remaining data (in grey) will be fed into the network.</figcaption>
 </figure>
 
