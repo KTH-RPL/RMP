@@ -1,0 +1,3 @@
+[submodule "AutoBots"]
+	path = AutoBots
+	url = https://github.com/iyuner/AutoBots.git
