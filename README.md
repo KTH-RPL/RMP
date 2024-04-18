@@ -52,10 +52,15 @@ This implementation is based on codes from several repositories. Thanks for thes
 Please cite our work if you find these useful for your research.
 
 ```
-@article{yang2023rmp,
+@inproceedings{yang2023rmp,
   author={Yi, Yang and Qingwen, Zhang and Thomas, Gilles and Nazre, Batool and John, Folkesson},
-  title={RMP: A Random Mask Pretrain Framework for Motion Prediction},
-  journal={arXiv preprint arXiv:2309.08989},
-  year={2023}
+  title = {RMP: A Random Mask Pretrain Framework for Motion Prediction},
+  booktitle = {IEEE 26th International Conference on Intelligent Transportation Systems (ITSC)},
+  year = {2023},
+  volume = {},
+  number = {},
+  pages = {3717-3723},
+  keywords = {Self-supervised learning;Switches;Prediction methods;Natural language processing;Trajectory;Task analysis;Autonomous vehicles},
+  doi = {10.1109/ITSC57777.2023.10422522},
 }
 ```
